@@ -1,0 +1,33 @@
+{
+  "manifest_version": "1.0",
+  "org": "anthropics",
+  "repo": "devcontainer-features",
+  "versions": [
+    {
+      "commit": "1d3f32d3a6f4a7cce4336a911978379e4aad8de5",
+      "parsed_at": "2026-04-15T23:05:08.655485+00:00",
+      "tag": "feature_claude-code_1.0.4",
+      "filetree": "filetree/1d3f32d3a6f4a7cce4336a911978379e4aad8de5.nq.gz",
+      "blobs": [
+        "blob/8a7a84bf32538735e1341a4a020c9ba80bb8d3e1.nq.gz",
+        "blob/57c3de2263c24728ea4b58e56ebeb0ae13d5edc8.nq.gz",
+        "blob/431d2a48876fe439966734d3fab5a0d5c6796b1a.nq.gz",
+        "blob/36f0d024c62ec6c57cb48d2a657ad7c5cf21849d.nq.gz",
+        "blob/f546f57db255f34f5f8db0c57368c508448941d5.nq.gz",
+        "blob/0717cc623b12a76201a4bf8641bd079b3e1a4cb7.nq.gz",
+        "blob/45166e59bc578520669df280913624909bc92131.nq.gz",
+        "blob/0c894f085df164d35458a3b7a91d79f0b4f58164.nq.gz",
+        "blob/22f41c16b03c811cdade36f1e7e94058e1a00df1.nq.gz",
+        "blob/2e21845d8676024e2a609e306c33c2d60921368e.nq.gz",
+        "blob/8f2ece7e920485e053b888d0c788e7df3cdf6ac2.nq.gz",
+        "blob/6aa44dfeabc2a63e09eb3f2d40c52aea98f8f651.nq.gz",
+        "blob/f9a8428e9d6fef44767aa22a88162ff05f129d52.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
